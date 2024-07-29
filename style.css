@@ -1,0 +1,123 @@
+* {
+    margin: 0 auto;
+    text-decoration: none;
+
+}
+
+.container {
+    display: flex;
+    gap: 50px;
+
+}
+
+.kok {
+    color: rgb(0, 149, 255);
+}
+
+.kook {
+    color: rgb(0, 183, 255);
+}
+
+.kokish {
+    color: rgb(4, 213, 250);
+}
+
+.pushti {
+    color: rgb(251, 0, 255);
+}
+
+.qizil {
+    color: rgb(255, 0, 153);
+}
+
+.btn {
+    background-color: rgb(0, 64, 255);
+    color: white;
+    width: 60px;
+    height: 25px;
+    border: 1px;
+    border-radius: 10px;
+}
+
+.ll {
+    color: blue;
+}
+
+.parent {
+    text-align: center;
+}
+
+.btnn {
+    text-align: center;
+
+}
+
+.img {
+    margin-left: 350px;
+
+}
+
+.blu {
+    color: rgb(224, 9, 239);
+
+}
+
+.ikkinchi {
+    text-align: center;
+}
+
+.kattadiv {
+    background-color: black;
+    color: white;
+}
+
+.btnnn {
+    text-align: center;
+
+
+}
+
+.btnl {
+    background-color: rgb(0, 64, 255);
+    color: white;
+    width: 60px;
+    height: 25px;
+    border: 1px;
+    border-radius: 10px;
+}
+
+.kokk {
+    color: rgb(0, 30, 255);
+}
+
+.uchinchidiv {
+    display: flex;
+}
+
+.rasm {
+    display: flex;
+}
+
+.header {
+    margin-top: 200px;
+}
+
+.oxirgidiv {
+    background-image: url(./figure\ \(6\).png);
+    width: 1410px;
+    height: 814px;
+    color: white;
+
+}
+
+.btnnn {
+    border-radius: 15px;
+    width: 150px;
+    height: 30px;
+
+}
+
+.yoz {
+    margin-left: 200px;
+
+}
